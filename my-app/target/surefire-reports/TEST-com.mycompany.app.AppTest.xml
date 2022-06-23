@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mycompany.app.AppTest" time="0.087" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="F:\DEVELOPMENTS\Github Remote\JavaMaven\my-app\target\test-classes;F:\DEVELOPMENTS\Github Remote\JavaMaven\my-app\target\classes;C:\Users\user\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\user\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Singapore"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="F:\PROGRAMS\Java\jdk-11.0.6\bin"/>
+    <property name="sun.java.command" value="F:\LINKS\Local\Temp\surefire11078844102134456904\surefirebooter16508007294377826775.jar F:\LINKS\Local\Temp\surefire11078844102134456904 2022-06-23T15-18-54_404-jvmRun1 surefire16262799337564118141tmp surefire_012867421014489281821tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="F:\DEVELOPMENTS\Github Remote\JavaMaven\my-app\target\test-classes;F:\DEVELOPMENTS\Github Remote\JavaMaven\my-app\target\classes;C:\Users\user\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\user\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\user"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-01-14"/>
+    <property name="java.home" value="F:\PROGRAMS\Java\jdk-11.0.6"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="F:\DEVELOPMENTS\Github Remote\JavaMaven\my-app"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="F:\LINKS\Local\Temp\surefire11078844102134456904\surefirebooter16508007294377826775.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.6+8-LTS"/>
+    <property name="user.name" value="user"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Users\user\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="F:\LINKS\Local\Temp\"/>
+    <property name="java.version" value="11.0.6"/>
+    <property name="user.dir" value="F:\DEVELOPMENTS\Github Remote\JavaMaven\my-app"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="F:\PROGRAMS\Java\jdk-11.0.6\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;F:\PROGRAMS\nodejs\;F:\PROGRAMS\Yarn\bin\;F:\PROGRAMS\Git\cmd;F:\PROGRAMS\xampp\php;C:\ProgramData\ComposerSetup\bin;F:\PROGRAMS\gtk2-toolkit\GTK2-Runtime\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;F:\PROGRAMS\scoop\apps\latex\current\texmfs\install\miktex\bin\x64;F:\PROGRAMS\CodeBlocksMinGW\CodeBlocks\MinGW\bin;F:\PROGRAMS\LLVM12\LLVM\bin;F:\PROGRAMS\SFML\SFML-2.5.1\bin;;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\;F:\PROGRAMS\Ruby30-x64\bin;F:\PROGRAMS\scoop\apps\latex\current\texmfs\install\miktex\bin\x64;F:\PROGRAMS\scoop\shims;C:\Users\user\scoop\shims;F:\PROGRAMS\Maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;F:\PROGRAMS\Octave\Octave-4.4.0\bin;C:\Users\user\AppData\Roaming\npm;C:\Users\user\AppData\Local\Yarn\bin;F:\PROGRAMS\R\R-3.6.2\bin;F:\PROGRAMS\Anaconda\condabin;F:\PROGRAMS\heroku-cli\heroku\bin;F:\PROGRAMS\Intellij IDEA\IntelliJ IDEA 2020.2\bin;C:\Users\user\AppData\Local\Programs\Microsoft VS Code\bin;F:\PROGRAMS\Java\jdk-11.0.6\bin;C:\Users\user\AppData\Roaming\Composer\vendor\bin;F:\PROGRAMS\MongoDB\Server\4.4\bin;F:\PROGRAMS\hadoop-2.7.2\bin;C:\Windows\System32\ngrok.exe;C:\Users\user\AppData\Local\Microsoft\WindowsApps;C:\Users\user\go\bin;F:\PROGRAMS\Go\bin;F:\PROGRAMS\postgresql\bin;F:\PROGRAMS\CodeBlocksMinGW\CodeBlocks\MinGW\bin;F:\PROGRAMS\PyCharm Community Edition 2021.2.3\bin;;F:\PROGRAMS\SQLite;;C:\Users\user\AppData\Local\Microsoft\WindowsApps;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.6+8-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.mycompany.app.AppTest" time="0.005"/>
+</testsuite>
