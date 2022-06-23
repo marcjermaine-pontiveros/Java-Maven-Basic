@@ -30,7 +30,7 @@ You need somewhere for your project to reside. Create a directory somewhere and 
 mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
 ```
 
-You will notice that the generate goal created a directory with the same name given as the artifactId. Change into that directory.
+You will notice that the *generate* goal created a directory with the same name given as the artifactId. Change into that directory.
 
 ```
 cd my-app
